@@ -17,7 +17,6 @@ export default class mymobileapp extends Component {
         <Start />
         <About />
         <Contact />
-
       </View>
     );
   }
